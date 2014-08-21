@@ -1,0 +1,22 @@
+{
+  "name": "funky-js",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/troyscott/funky-js.git"
+  },
+  "author": "Troy Scott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/troyscott/funky-js/issues"
+  },
+  "homepage": "https://github.com/troyscott/funky-js",
+  "dependencies": {
+    "express": "~4.8.5"
+  }
+}
